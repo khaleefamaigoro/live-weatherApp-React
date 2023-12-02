@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf4f4e9f.css",
+    "main.js": "/static/js/main.57e52894.js",
+    "static/js/787.d62d1c65.chunk.js": "/static/js/787.d62d1c65.chunk.js",
+    "static/media/Simple-Line-Icons.svg?v=2.4.0": "/static/media/Simple-Line-Icons.809e55bbb1903c630920.svg",
+    "static/media/RobotoMono-Regular.ttf": "/static/media/RobotoMono-Regular.94ffabb10cbc81ee42ba.ttf",
+    "static/media/Simple-Line-Icons.woff?v=2.4.0": "/static/media/Simple-Line-Icons.5c9febce52054ae0b96d.woff",
+    "static/media/Simple-Line-Icons.eot?v=2.4.0": "/static/media/Simple-Line-Icons.85e8c542d5e137beecf9.eot",
+    "static/media/Simple-Line-Icons.ttf?v=2.4.0": "/static/media/Simple-Line-Icons.3ec13a24af3fdda11107.ttf",
+    "static/media/snow.png": "/static/media/snow.9957456da0445490c376.png",
+    "static/media/Simple-Line-Icons.woff2?v=2.4.0": "/static/media/Simple-Line-Icons.3826fa1cb2348dd93948.woff2",
+    "static/media/sun.png": "/static/media/sun.9b12db98b8dc0f1ec7af.png",
+    "static/media/blowing.png": "/static/media/blowing.30cb9af3c4ff4301633d.png",
+    "static/media/thunderstorm.png": "/static/media/thunderstorm.2764536f34aa32868b52.png",
+    "static/media/cloudy.png": "/static/media/cloudy.73e306565c14197b6b3d.png",
+    "static/media/raining.png": "/static/media/raining.e3afaab6a9a00603878e.png",
+    "index.html": "/index.html",
+    "main.bf4f4e9f.css.map": "/static/css/main.bf4f4e9f.css.map",
+    "main.57e52894.js.map": "/static/js/main.57e52894.js.map",
+    "787.d62d1c65.chunk.js.map": "/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4f4e9f.css",
+    "static/js/main.57e52894.js"
+  ]
+}
